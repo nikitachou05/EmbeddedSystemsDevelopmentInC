@@ -16,7 +16,12 @@ Execute code with the MSP432 microcontroller using Software Keil MDK.
 Use console provided by software Terra Term.
 
 Download Links
+
 (1) https://www2.keil.com/mdk5
+
 (2) https://osdn.net/projects/ttssh2/releases/72009
+
 (3) Download from this GitHub Repository
+
 (4) https://software-dl.ti.com/ccs/esd/documents/xdsdebugprobes/emu_xds_software_package_download.html
+
