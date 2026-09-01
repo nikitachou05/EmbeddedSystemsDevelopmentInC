@@ -10,7 +10,7 @@ Open the extracted folder, click DPInst64 to install it.
 
 Download the TI XDS Driver Download (32 bit windows, latest version).
 
-Open Keil. Go to Projects, then Open Projects, and finally open the Lab Template. Paste the code in the main.c file.
+Open Keil. Go to Projects, then Open Projects, and finally open the Lab Template. Replace the code in the main.c file.
 
 Execute code with the MSP432 microcontroller using Software Keil MDK.
 Use console provided by software Terra Term.
